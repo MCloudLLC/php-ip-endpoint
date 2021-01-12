@@ -4,8 +4,8 @@ This endpoint can be used with the Dynamic DNS with Cloudflare project to echo t
 
 ## Docker Image
 
-For convience, a Docker image is available by using the following:
+For convenience, a Docker image is available by using the following:
 
 ```
-docker push mcloudllc/php-ip-endpoint:latest
+docker pull mcloudllc/php-ip-endpoint:latest
 ```
